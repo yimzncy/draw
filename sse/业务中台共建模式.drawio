@@ -1,1 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T09:09:50.535Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" version="13.11.0" etag="hmHCGCAbPmFe3BaP0EXx" type="github"><diagram id="Fmt4JYkOpMf6JTTpeLZk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-14T12:18:49.463Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="UVvb8WMTcejwLxu_k7dP" version="13.11.0" type="github">
+  <diagram id="Fmt4JYkOpMf6JTTpeLZk" name="Page-1">
+    <mxGraphModel dx="782" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="IUOu6LaZ3xwI3mmke3Tm-16" target="IUOu6LaZ3xwI3mmke3Tm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-27" value="贡献项目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="IUOu6LaZ3xwI3mmke3Tm-26">
+          <mxGeometry x="-0.3472" relative="1" as="geometry">
+            <mxPoint x="58.010000000000005" y="-40.730000000000004" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-28" value="改造项目以达到&lt;br&gt;中台准入条件" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="IUOu6LaZ3xwI3mmke3Tm-16" target="IUOu6LaZ3xwI3mmke3Tm-20">
+          <mxGeometry x="0.2742" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="IUOu6LaZ3xwI3mmke3Tm-16" target="IUOu6LaZ3xwI3mmke3Tm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-30" value="完成项目改造" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="IUOu6LaZ3xwI3mmke3Tm-29">
+          <mxGeometry x="0.2301" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="IUOu6LaZ3xwI3mmke3Tm-16" target="IUOu6LaZ3xwI3mmke3Tm-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-41" value="持续代码贡献" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="IUOu6LaZ3xwI3mmke3Tm-31">
+          <mxGeometry x="0.2267" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-16" value="开发者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="IUOu6LaZ3xwI3mmke3Tm-17" target="IUOu6LaZ3xwI3mmke3Tm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-35" value="项目准入审核" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="IUOu6LaZ3xwI3mmke3Tm-34">
+          <mxGeometry x="0.2185" relative="1" as="geometry">
+            <mxPoint x="7.559999999999999" y="-3.18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-36" value="协助项目孵化" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" target="IUOu6LaZ3xwI3mmke3Tm-20">
+          <mxGeometry x="0.1429" relative="1" as="geometry">
+            <mxPoint x="660" y="200" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="IUOu6LaZ3xwI3mmke3Tm-17" target="IUOu6LaZ3xwI3mmke3Tm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-38" value="项目成熟度评估" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="IUOu6LaZ3xwI3mmke3Tm-37">
+          <mxGeometry x="0.4228" y="1" relative="1" as="geometry">
+            <mxPoint x="19.24" y="-19.3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="IUOu6LaZ3xwI3mmke3Tm-17" target="IUOu6LaZ3xwI3mmke3Tm-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-40" value="项目长期运营" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="IUOu6LaZ3xwI3mmke3Tm-39">
+          <mxGeometry x="0.5165" y="2" relative="1" as="geometry">
+            <mxPoint x="38.05" y="-28.480000000000004" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-17" value="中台管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IUOu6LaZ3xwI3mmke3Tm-18" target="IUOu6LaZ3xwI3mmke3Tm-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-18" value="项目准入期" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="IUOu6LaZ3xwI3mmke3Tm-20" target="IUOu6LaZ3xwI3mmke3Tm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-20" value="项目孵化期" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="IUOu6LaZ3xwI3mmke3Tm-21" target="IUOu6LaZ3xwI3mmke3Tm-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-21" value="项目成熟期" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOu6LaZ3xwI3mmke3Tm-23" value="中台项目" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
